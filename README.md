@@ -12,10 +12,10 @@ An BCS student and passionate Data Science enthusiast who loves working with dat
 ##  What I’m Working On
 🌱 Hands-on with projects like:
 
-Predictive modeling for real-world datasets
-EDA using Python to discover data patterns and insights
-Classification and regression models using ML algorithms
-Designing dashboards and data visuals for effective storytelling
+Predictive modeling for real-world datasets |
+EDA using Python to discover data patterns and insights |
+Classification and regression models using ML algorithms |
+Designing dashboards and data visuals for effective storytelling |
 
 ## Goals
 🚀 Eager to dive deeper into deep learning and advanced machine learning concepts

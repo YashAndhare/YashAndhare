@@ -2,7 +2,7 @@
 An BCS student and passionate Data Science enthusiast who loves working with data, building ML models, and solving real-world problems through analytics. I’m always exploring new trends in machine learning and AI to sharpen my skills and stay ahead in the data-driven world.
 
 ## About Me
-🎓 pursued PGA Data Science & Analytics course at Imarticus Learning, Pune |
+🎓 Completed PGA Data Science & Analytics course at Imarticus Learning,Pune |
 🎓 Completed Bachelor of Computer Science (BCS) |
 📊 Passionate about data storytelling, machine learning, and analytics |
 💻 Proficient in Python, Pandas, NumPy, scikit-learn, and Matplotlib |

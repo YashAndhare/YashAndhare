@@ -24,52 +24,24 @@ An MCA Data Science student and passionate Data Science enthusiast who loves wor
 
 ---
 
-## 🛠️ Tech Stack  
-
-### 💻 Languages & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=python,sql,git,github" />
-</p>
-
-### 📚 Libraries  
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- Pandas | NumPy | scikit-learn | Matplotlib  
-
----
-
-## 📊 GitHub Stats  
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YashAndhare&show_icons=true&theme=tokyonight" alt="stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YashAndhare&theme=tokyonight" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashAndhare&layout=compact&theme=tokyonight" alt="top languages" />
-</p>
+## 🛠️ Tech Stack    
+- **Languages:** Python, SQL  
+- **Libraries:** Pandas, NumPy, scikit-learn, Matplotlib  
+- **Tools:** Power BI, Excel  
+- **Concepts:** EDA, Data Cleaning, Feature Engineering, ML Algorithms   
 
 ---
 
 ## 🎯 Goals  
 - 🚀 Become a Data Scientist  
 - 📚 Learn Deep Learning & Advanced ML  
-- 🌍 Contribute to Open Source Projects  
+- 🌍 Contribute to Open Source & Data Science Community  
 
 ---
 
-## 🤝 Connect With Me  
-<p>
-  <a href="mailto:yashandhare14@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/yash-andhare-107a03143">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
+## 🤝 Connect With Me   
+- 📧 Email: yashandhare14@gmail.com  
+- 💼 LinkedIn: [yash-andhare](https://www.linkedin.com/in/yash-andhare-107a03143) 
 ---
 
 ⭐ *"Turning data into actionable insights"*  

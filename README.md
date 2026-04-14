@@ -1,10 +1,7 @@
 <h1 align="center">Hey 👋, I'm Yash Andhare</h1>
 <h3 align="center">🚀 MCA (Data Science) Student | Aspiring Data Scientist | ML Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YashAndhare&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <img src="https://img.shields.io/github/followers/YashAndhare?label=Followers&style=social" alt="followers" />
-</p>
+An MCA Data Science student and passionate Data Science enthusiast who loves working with data, building ML models, and solving real-world problems through analytics. I’m always exploring new trends in machine learning and AI to sharpen my skills and stay ahead in the data-driven world.
 
 ---
 

@@ -2,9 +2,9 @@
 An MCA Data Science student and passionate Data Science enthusiast who loves working with data, building ML models, and solving real-world problems through analytics. I’m always exploring new trends in machine learning and AI to sharpen my skills and stay ahead in the data-driven world.
 
 ## About Me
-🎓 Currently pursuing MCA (Data Science) from MIT ADT University, Pune |
-🎓 Completed PGA Data Science & Analytics course at Imarticus Learning, Pune |
-🎓 Completed Bachelor of Computer Science (BCS) |
+--🎓 Currently pursuing MCA (Data Science) from MIT ADT University, Pune |
+--🎓 Completed PGA Data Science & Analytics course at Imarticus Learning, Pune |
+--🎓 Completed Bachelor of Computer Science (BCS) |
 📊 Passionate about data storytelling, machine learning, and analytics |
 💻 Proficient in Python, Pandas, NumPy, scikit-learn, and Matplotlib |
 🛠️ Expanding my skillset with SQL and Power BI |
